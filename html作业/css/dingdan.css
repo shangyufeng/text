@@ -1,0 +1,122 @@
+#ww{
+    width: 415px;
+    height: 985px;
+}
+.s1{
+    width: 400px;
+    height: 50px;
+    margin-left: 5px;
+}
+.s1 a img{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    margin-top: 10px;
+}
+.s1 input{
+    border:  solid 1px red;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    margin: 5px;
+    margin-top: 10px;
+}
+.s1  img{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    margin-top: 10px;
+}
+.s1 ul li{
+    font-size: 15px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.s2{
+    width: 400px;
+    height: 200px;
+    margin: 5px;
+    background: white;
+}
+.s2 .s21{
+        float: left;
+    margin: 5px;
+}
+.s2 .s22{
+    font-size: 13px;
+    color: red;
+    float: right;
+    margin: 8px;
+}
+.s2 img{
+    width: 70px;
+    height: 70px;
+    margin-left: 5px;
+    float: left;
+}
+.s2 .s23{
+    float: left;
+    margin-left: 10px;
+    font-size: 15px;
+}
+.s2 .s24{
+    float: right;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.s2 .s25{
+    float: left;
+    margin-left: 10px;
+    font-size: 10px;
+    color: darkgrey;
+}
+.s2 .s26{
+    float: right;
+    margin-right: 10px;
+    font-size: 10px;
+    color: darkgrey;
+}
+.s2 .s27{
+    float: left;
+    margin-left: 10px;
+    font-size: 10px;
+    color: darkgrey;
+}
+.s2 .s28{
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+    color: darkgrey;
+}
+.s2 .s29{
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+    color: #000000;
+}
+.s2 .ss1{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 40px;
+    height: 20px;
+    float: left;
+}
+.s2 .ss1 img{
+    width: 20px;
+    height: 20px;
+}
+.s2 .ss2{
+    font-size: 15px;
+    border-radius: 15px;
+    border: solid 1px darkgrey;
+    margin-top: 13px;
+    margin-left: 25px;
+    width: 80px;
+    height: 30px;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+}
